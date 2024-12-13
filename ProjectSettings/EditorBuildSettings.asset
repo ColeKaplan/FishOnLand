@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EnterScene.unity
+    guid: e3facf9dcd0a349adb7e16252405a9d0
+  - enabled: 1
+    path: Assets/Scenes/Challenge1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Challenge2.unity
+    guid: 23c31a17530b048fdbfae98854077d0d
+  - enabled: 1
+    path: Assets/Scenes/Challenge3.unity
+    guid: 025d431b5f21745df801be13b4c27c43
+  - enabled: 1
+    path: Assets/Scenes/Sand1.unity
+    guid: 51787dacff3b9401190cab73ec771b26
+  - enabled: 1
+    path: Assets/Scenes/Sand2.unity
+    guid: af62709c7b1fe4283b24749dfc852d21
+  - enabled: 1
+    path: Assets/Scenes/Sand3.unity
+    guid: f323c2c50724c44218d48c6fa70e45e5
+  - enabled: 1
+    path: Assets/Scenes/Cake1.unity
+    guid: 9cb5cd592c56d4069ac031e71ed75fa2
+  - enabled: 1
+    path: Assets/Scenes/Cake2.unity
+    guid: 6e6a9634f6543485a8f2e5d483d02749
+  - enabled: 1
+    path: Assets/Scenes/Cake3.unity
+    guid: 1e665ef60f9484934989f60e0d2dafd5
+  - enabled: 1
+    path: Assets/BenesAssests/Old Scenes/old Start Menu.unity
+    guid: 67eb2b3cfd6e04f018539205dede7589
+  - enabled: 1
+    path: Assets/BenesAssests/Old Scenes/old howToPlay.unity
+    guid: 5a5e293cd4d9d42cb9662d63488782a1
+  - enabled: 1
+    path: Assets/BenesAssests/Old Scenes/old credits.unity
+    guid: b988be2f565fc4c16b53cddc719ef587
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: bbc6f5f8b5628462781426c6ba6de311
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: 9d3bb2624c9a948a78c7ce99eae90b4f
+  m_configObjects: {}
