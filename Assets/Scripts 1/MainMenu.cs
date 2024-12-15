@@ -12,16 +12,16 @@ public class MainMenu : MonoBehaviour
 
     public void credits()
     {
-        //SceneManager.LoadSceneAsync("old credits");
+        SceneManager.LoadSceneAsync("old credits");
     }
 
     public void howToPlay() 
     {
-        //SceneManager.LoadSceneAsync("old howToPlay");
+        SceneManager.LoadSceneAsync("old howToPlay");
     }
     public void backToMenu()
     {
-        //SceneManager.LoadScene("Start Menu");
+        SceneManager.LoadScene("old start menu");
     }
     public void next()
     {
